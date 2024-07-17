@@ -1,0 +1,6 @@
+                                                  nods.js task-1 
+
+
+    1. two api were created with endpoint /write and /read 
+    2. /write endpoint will created file in the name current timestamp
+    3. /read endpoint will read the file and return the content of the file
